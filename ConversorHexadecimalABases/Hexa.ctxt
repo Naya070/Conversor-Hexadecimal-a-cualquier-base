@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Hexa
+comment1.params=numEntrada
+comment1.target=Hexa(java.lang.String)
+comment1.text=\r\n\ Constructor\ para\ objetos\ de\ la\ clase\ Hexa\r\n\ Ingrese\ un\ n\u00FAmero\ hexadecimal\r\n\ el\ n\u00FAmero\ debe\ ir\ entre\ comillas\r\n\ Las\ letras\ deben\ ir\ en\ may\u00FAsculas\r\n\ Ejemplos\:\ "1A2"\ ,\ "FFF"\r\n
+comment2.params=
+comment2.target=int\ ConvDecimal()
+comment2.text=\r\n\ Convertir\ de\ Hexadecimal\ a\ decimal\r\n\ Con\ este\ m\u00E9todo\ puedes\ convertir\ tu\ valor\ hexadecimal\ puesto\ en\ el\ constructor\ a\ un\ valor\ decimal.\r\n\ \r\n
+numComments=3

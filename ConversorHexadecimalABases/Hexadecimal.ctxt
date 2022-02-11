@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Hexadecimal
+comment1.params=
+comment1.target=Hexadecimal()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Hexadecimal\r\n
+comment2.params=n\u00FAmero
+comment2.target=void\ setNombre(java.lang.String)
+comment3.params=
+comment3.target=int\ decimal()
+comment3.text=\r\n\ Convertir\ de\ Hexadecimal\ a\ decimal\r\n\ \r\n
+numComments=4

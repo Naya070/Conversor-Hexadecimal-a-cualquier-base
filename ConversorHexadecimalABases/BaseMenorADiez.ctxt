@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BaseMenorADiez
+comment1.params=numEntrada
+comment1.target=BaseMenorADiez(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Conversor\r\n
+comment2.params=BaseRequerida
+comment2.target=java.lang.String\ ConvBaseMenoraDiez(double)
+comment2.text=\r\n\ Este\ m\u00E9todo\ transforma\ de\ hexadecimal\ a\ cualquier\ base.\r\n\ \r\n
+numComments=3
